@@ -1,2 +1,3 @@
 application:
   test: This is a test!
+  container: this should appear after dockerization!
